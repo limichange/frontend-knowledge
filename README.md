@@ -1,4 +1,4 @@
-# frontend-knowledge
+# Frontend Knowledge
 😑 You must konw it, if you are a frontend engineer. 
 
 ### Tool
