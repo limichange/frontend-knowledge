@@ -1,5 +1,5 @@
 # Frontend Knowledge
-😑 You must konw it, if you are a frontend engineer. 
+😑 You must know it, if you are a frontend engineer. 
 
 ### Tool
 
